@@ -1,0 +1,2 @@
+selenium>=4.15
+python-chess>=1.10

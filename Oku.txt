@@ -1,0 +1,3 @@
+C:\Users\Berat Özgün\Downloads\Chess_helper>python chess_tips.py --stockfish-path stockfish-windows-x86-64-universal.exe
+
+Write that to cmd. and magic.
